@@ -1,0 +1,31 @@
+{
+  "userInfo": [
+    {
+      "id": 1,
+      "name": "Blessing John",
+      "position": "Software Engineer",
+      "department": "Engineering",
+      "salary": 80000
+    },
+    {
+      "id": 2,
+      "name": "Addudu Smith",
+      "position": "Marketing Manager",
+      "department": "Marketing",
+      "salary": 75000
+    },
+    {
+      "id": 3,
+      "name": "Usman Johnson",
+      "position": "HR Specialist",
+      "department": "Human Resources",
+      "salary": 60000
+    }
+  ],
+  "company_info": {
+    "name": "RossyPotentials ",
+    "location": "Abuja Nigeria",
+    "founded_year": 2005,
+    "revenue": 5000000
+  }
+}
